@@ -6,10 +6,12 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
   
-
+Swagger DOCS :  http://localhost:3000/api#/
 ## Description
 
-Service that provides Movies and APIs
+Service that provide Movie APIs
+
+
 
 ## Prerequisites
 ```bash
